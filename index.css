@@ -1,0 +1,26 @@
+.card{
+    border: 2px solid black;
+    height: 300px;
+    width: 250px;
+}
+.imgp{
+    width: 100%;
+}
+.cart-wrraper{
+    display: flex;
+    justify-content: space-between;
+}
+.ahmad{
+    width: 250px;
+    height: 200px;
+}
+.circle{
+    border: 2px solid red;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.circle-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
